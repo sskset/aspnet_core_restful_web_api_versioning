@@ -1,6 +1,6 @@
-#This project was to demostarte the sample of using the header to manipulate the versions of asp.net core restful web api.
+# This project was to demostarte the sample of using the header to manipulate the versions of asp.net core restful web api.
 
-##https://www.hanselman.com/blog/ASPNETCoreRESTfulWebAPIVersioningMadeEasy.aspx
+## https://www.hanselman.com/blog/ASPNETCoreRESTfulWebAPIVersioningMadeEasy.aspx
 
 
 
